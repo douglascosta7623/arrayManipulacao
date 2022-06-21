@@ -16,7 +16,8 @@ $ bash git clone https://github.com/douglascosta7623/arrayManipulacao.git
 
 # Access
 $ bash cd arrayManipulacao
-
+```
+```
 # Run Project
 <p align="justify">To run the code itself. Just put the code 'node name-exercise.js'. Example</p>
 $ bash node exercise-01.js
