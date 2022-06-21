@@ -19,7 +19,7 @@ $ bash cd arrayManipulacao
 ```
 ```
 # Run Project
-<p align="justify">To run the code itself. Just put the code 'node name-exercise.js'. Example</p>
+To run the code itself. Just put the code 'node name-exercise.js'. Example:
 $ bash node exercise-01.js
 ```
 
