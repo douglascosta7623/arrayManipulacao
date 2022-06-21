@@ -9,4 +9,5 @@ function cutArr(dataCut, len){
 }
 
 const newArr = data.sort((a,b) => a-b);
-console.log(cutArr(data, (data.length/2)))
+console.log('\n9. Separe em duas listas sendo a primeira 1 elemento maior que a segunda, uma contendo os menores valores e outra com os maiores..\n')
+console.log(cutArr(newArr, (data.length/2)))
