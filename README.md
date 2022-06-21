@@ -2,7 +2,8 @@
 
 ## Description Project
 <p align="justify"> This project consists of solving the activities on the study track.</p>
-Utilizando o **Javascript** execute as atividades abaixo:
+
+Utilizando o *Javascript* execute as atividades abaixo:
 
 1. Classifique a lista em ordem crescente.
 2. Classifique a lista em ordem decrecente.
@@ -15,7 +16,7 @@ Utilizando o **Javascript** execute as atividades abaixo:
 9. Separe em duas listas sendo a primeira 1 elemento maior que a segunda, uma contendo os menores valores e outra com os maiores.
 10. Exiba na tela três valores que representam exatamente os elementos posicionados no meio da lista.
 
-Utilize o terminal para exibir os valores, inclua essa atividade em um repositório do Git da empresa, com o nome da atividade. Cadas atividade listada acima deve representar um commit feito no repositório. Disponibilize o resultado do terminal no nosso grupo da formação (**não mandar o código somente o resultada de cada exercício**)
+Utilize o terminal para exibir os valores, inclua essa atividade em um repositório do Git da empresa, com o nome da atividade. Cadas atividade listada acima deve representar um commit feito no repositório. Disponibilize o resultado do terminal no nosso grupo da formação (*não mandar o código somente o resultada de cada exercício*)
 
 
 
