@@ -12,7 +12,9 @@ To run this project it is very important to have installed [Node](https://nodejs
 
 # Clone this project on terminal GIT Bash
 
-$ ```bash git clone https://github.com/douglascosta7623/arrayManipulacao.git```
+$ ```
+
+bash git clone https://github.com/douglascosta7623/arrayManipulacao.git```
 
 # Access
 ```$ bash cd arrayManipulacao```
